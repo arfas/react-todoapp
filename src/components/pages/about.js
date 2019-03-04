@@ -1,0 +1,13 @@
+import React from 'react'
+
+export default function about() {
+  return (
+    <React.Fragment>
+        <h1>About</h1>
+        <p>Thiis is the TodoList app v1.0.0 It is part of a React crash course</p>
+        
+        </React.Fragment>
+      
+   
+  )
+}
